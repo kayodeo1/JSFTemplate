@@ -1,0 +1,19 @@
+# Ignore compiled files
+target/
+*.class
+*.war
+
+# Ignore Eclipse & IntelliJ settings
+/.idea/
+/.vscode/
+/.project
+/.settings/
+/.classpath
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+/logs/
+*.log
