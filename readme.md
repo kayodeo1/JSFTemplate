@@ -1,7 +1,5 @@
 
-# 🚀 Updated README for Apache TomEE Plume 10
 
-This version ensures that your JSF 4.0 + PrimeFaces 14 template works specifically on TomEE 10.
 
 ## 🔥 JSF 4.0 + PrimeFaces 14 on Apache TomEE 10
 
